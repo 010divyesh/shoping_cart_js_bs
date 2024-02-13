@@ -1,0 +1,10 @@
+.nav-link{
+    font-size: 18px;
+}
+.carousel-item{
+    height: 450px;
+}
+.badge{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+}
